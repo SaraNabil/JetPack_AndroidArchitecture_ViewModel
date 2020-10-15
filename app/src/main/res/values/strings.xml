@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JetPack_AndroidArchitecture_ViewModel</string>
+    <string name="number">Number : </string>
+</resources>
